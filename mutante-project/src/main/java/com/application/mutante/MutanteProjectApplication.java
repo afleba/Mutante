@@ -1,4 +1,4 @@
-package com.mutante.aplication;
+package com.application.mutante;
 
 
 import org.springframework.boot.SpringApplication;

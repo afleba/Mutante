@@ -1,4 +1,4 @@
-package com.mutante.controllers;
+package com.application.mutante.controllers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mutante.clases.Mutante;
-import com.mutante.dto.MutanteDTO;
+import com.application.mutante.clases.Mutante;
+import com.application.mutante.dto.MutanteDTO;
 
 @RestController
 public class MutanteController {

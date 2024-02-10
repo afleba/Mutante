@@ -1,4 +1,4 @@
-package com.mutante.aplication;
+package com.application.mutante.clases;
 
 public class Mutante {
 	

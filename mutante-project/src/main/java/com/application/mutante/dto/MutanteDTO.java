@@ -1,4 +1,4 @@
-package com.mutante.dto;
+package com.application.mutante.dto;
 
 public class MutanteDTO {
     
