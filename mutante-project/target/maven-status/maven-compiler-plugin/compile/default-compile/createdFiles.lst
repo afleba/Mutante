@@ -1,0 +1,6 @@
+com\application\mutante\controllers\MutanteController.class
+com\application\mutante\clases\Mutante.class
+com\application\mutante\MutanteProjectApplication.class
+com\application\mutante\dto\MutanteDTO.class
+com\application\mutante\repositories\MutanteRepository.class
+com\application\mutante\entities\MutanteEntity.class
