@@ -4,7 +4,9 @@ package com.application.mutante;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
 
+@ComponentScan("com.application")
 @SpringBootApplication
 public class MutanteProjectApplication {
 
